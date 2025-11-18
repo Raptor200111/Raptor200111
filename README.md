@@ -1,49 +1,89 @@
-# Alvar Dalda Svärd – Game Developer & Software Engineer
+Hi 👋 My name is Alvar Dalda Svärd
+===============================
 
-## About Me
+Software Engineer & Game Developer
+-----------------------------
 
-I’m a recent **Computer Engineering graduate** with a foundation in software development and videogame programming. I’m passionate about creating gameplay systems, interactive mechanics, and polished player experiences.
+* 🎓  I’m a recent **Computer Engineering graduate**
+* 🌍  I'm based in Barcelona, Spain
+* 🚀  I'm currently working on building small personal game projects.
+* 🧠  I'm learning Game Engine deep mechanics.
+* ✉️  You can contact me at [alvardalsva@gmail.com](mailto:alvardalsva@gmail.com)
+* 🤝  I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
+* ℹ️  For more info about my background, visit my 👉 **[LinkedIn](https://www.linkedin.com/in/alvardalsva/)**.
 
-|🎓 Studies |💼 Work Experience |
-|-----------|---------------------|
-| **Bachelor Degree in Computer Engineering** — FIB-UPC (2021–2025) | **Junior Programmer — PupGam Studios (2021)** Worked with JavaScript and the Cocos2d-x engine to develop and optimize interactive features. Completed internship and was offered a contract. (7 months total) |
-| **GFCS in Multiplatform Application Development: Video Games and Digital Entertainment (DAM)** — iFP (2019–2021)  | **GFCS Teacher (2023–24 Academic Year)** Taught HTML, CSS, XML, XPath, and RP to DAM/DAW students. Emphasized clean, maintainable, and scalable code practices.|
+---
 
-## Featured Projects
+## 🛠 Tech Stack
 
-- **Dynamic Procedural Toolkit for Maps (DPTM)** – Open-source plugin for Godot Engine 4.x – Bachelor's Thesis ([link](https://github.com/Raptor200111/Dynamic-Procedural-Toolkit-for-Maps))
-- More things soon...
+<p align="center">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 
-## Currently Working On
+  <!-- Game Engines -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="40"/>
 
-### Work:
-- Unemployed (looking for work opportunities)
+  <!-- Web / Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
 
-### Personal projects:
--	Building my portfolio.
--	Creating small but polished game demos.
--	Learning engine internals and performance optimization
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/>
+
+  <!-- Web Basics -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+### 🎮 Dynamic Procedural Toolkit for Maps (Godot 4.x)
+*Open-source procedural tools plugin for Godot Engine 4.x - Bachelor's Thesis Project*  
+**Repo:** https://github.com/Raptor200111/Dynamic-Procedural-Toolkit-for-Maps  
+
+*(More projects soon…)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raptor200111&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raptor200111&layout=compact&theme=radical" height="170"/>
+</p>
+
+---
+
+<p align="center">👾 Thanks for visiting! 👾</p>
+
+<p align="center">
+  <a href="mailto:alvardalsva@gmail.com">
+    <img src="Mail_(iOS).svg.png" width="40"/>
+  </a>
     
-### Learning:
--   Advanced Unity or Unreal workflows
--   ECS patterns
--   Game architectural best practices
-
-
-## Tech Stack & Tools
-- **Languages:** C++, C#, Python, JavaScript, Java, SQL
-- **Game Engines:** Unity, Godot, Cocos2d-x, OpenGL
-- **Software Fullstack:** Flutter, React, Django, Java, Docker
-- **Tools:** Git, Visual Studio, Postman
-- **Web:** HTML, CSS and JavaScript
-
-----------
-
-## Contact / Networking
-
--   **Email:** alvardalsva@gmail.com
--   **LinkedIn:** [linkedin.com/in/alvardalsva](https://www.linkedin.com/in/alvardalsva/)
--   **Itch.<span>io</span>**: [raptor200111.itch.io](https://raptor200111.itch.io/) (work in progress)
+  <a href="https://www.linkedin.com/in/alvardalsva/">
+    <img src="linkedin.svg" width="40"/>
+  </a>
     
+  <a href="https://raptor200111.itch.io/">
+    <img src="Itch_io.svg" height="40"/>
+  </a>
+</p>
 
-Open to connecting, collaborating, or discussing any ideas anytime!
+<p align="center">Open to collaborating, connecting, or discussing ideas anytime!</p>
+
